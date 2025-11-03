@@ -11,7 +11,7 @@ Press F5 to run
 Problem Summaries
 Problem 1: BMI Calculator
 
-Gets name, age, gender, height (feet & inches), weight
+Gets name, age, gender, height feet & inches, weight
 Converts height to inches
 Calculates BMI using formula
 Determines BMI category (Severe Thinness to Obese Class III)
@@ -41,6 +41,8 @@ Shows detailed monthly bill
 Problem 5: AT&T Fiber Internet Bill Calculator
 
 5 speed options (300, 500, 1000, 2000, 5000 Mbps)
+
+
 Optional static IP add-on ($15)
 Calculates 9.5% tax
 Shows detailed billing summary
