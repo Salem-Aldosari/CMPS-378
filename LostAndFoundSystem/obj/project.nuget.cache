@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "R29fmctZkmo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Salem Al-Dosari\\Desktop\\LostAndFoundSystem\\LostAndFoundSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salem Al-Dosari\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\Salem Al-Dosari\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Salem Al-Dosari\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
